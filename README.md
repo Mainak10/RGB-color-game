@@ -9,7 +9,8 @@ The RGB color model is one of the most widely used color representation method i
 R(red), G(green), B(blue) 
 
 Each primary color can take an intensity value ranging from 0(lowest) to 255(highest). Mixing these three primary colors at different intensity levels produces a variety of colors. The collection of all the colors obtained by such a linear combination of red, green and blue forms an unique color.
-e.g: RGB(255, 0 , 0) --> Generates Red.
+<br/>
+e.g: **RGB(255, 0 , 0) --> Generates Red.**
 <br/>
 For Details have a look on this [RGB color Model](https://en.wikipedia.org/wiki/RGB_color_model)
 ## How to Play
