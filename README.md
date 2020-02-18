@@ -1,6 +1,7 @@
 # RGB Color Guess Game
 A Javascript based web app to visualize how RGB color model works.
 # [Demo](https://mainak10.github.io/RGB-color-game/color-game.html)
+![Screenshot of RGB Game](https://mainak10.github.io/RGB-color-game/media/Screenshot-color-game.png)
 
 ## Brief about RGB color Model
 The RGB color model is one of the most widely used color representation method in Web applications. It use a color coordinate system with three primary colors:
