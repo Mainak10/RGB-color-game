@@ -1,5 +1,6 @@
 :root{
     font-family: "Montserrate","Avenir" ;
+    outline: none;
 }
 body {
     background: #232323;
